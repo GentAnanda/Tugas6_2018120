@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tugas6 2018120</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="minuman1">Ice Chocolate</string>
+    <string name="deskripsi1">Minuman Es Coklat Yang Manis dan membuat mood kamu naik lagi</string>
+    <string name="harga1">Rp.50.000</string>
+    <string name="minuman2">Matcha Latte</string>
+    <string name="deskripsi2">Minuman daun teh hijau dengan tambahan latte yang membuat tenang</string>
+    <string name="harga2">Rp.30.000.</string>
+    <string name="minuman3">Ice Coffe Milk</string>
+    <string name="deskripsi3">Minuman es kopi susu</string>
+    <string name="todo">TODO</string>
+    <string name="harga3">Rp.30.000.</string>
+    <string-array name="minuman">
+        <item>Ice Chocolate</item>
+        <item>Matcha Latte</item>
+        <item>Ice Coffe Milk</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp.50.000</item>
+        <item>Rp.30.000</item>
+        <item>Rp.30.000</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Minuman Es Coklat</item>
+        <item>Minuman Matcha</item>
+        <item>Minuman Kopi susu</item>
+    </string-array>
+</resources>
